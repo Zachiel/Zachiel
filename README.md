@@ -1,7 +1,3 @@
-<div class="center">
-    Hi 👋, I'm Piotr Warowny
-</div>
-
 # <center>Hi 👋, I'm Piotr Warowny</center>
 
 ![Groot gamer and coder](https://i.imgur.com/sNcB4uC.jpg)
@@ -21,8 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-    .center {
-        text-align: center;
-    }
-</style>
