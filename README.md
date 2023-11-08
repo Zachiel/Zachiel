@@ -1,7 +1,8 @@
-# <center>Hi 👋, I'm Piotr Warowny</center>
+# Hi <img src="https://media.tenor.com/5f01dctcXNMAAAAi/greetings-hey.gif" height="50">, I'm Piotr Warowny
+
+![Profile views](https://komarev.com/ghpvc/?username=Zachiel&color=blue)
 
 ![Groot gamer and coder](https://i.imgur.com/sNcB4uC.jpg)
-![Profile views](https://komarev.com/ghpvc/?username=Zachiel&color=blue)
 
 <!--
 **Zachiel/Zachiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
