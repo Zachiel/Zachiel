@@ -36,9 +36,13 @@
 -   🎨 Design tools: ![photoshop][designphotoshop]![illustrator][designillustrator]![lightroom classic][designlightroom]![figma][designfigma]![canva][designcanva]
 -   🔧 Other tools: ![docker][docker]![eslint][eslint]![postman][postman]![swagger][swagger]
 
+## 💁‍♂️ Github stats
+
+[![Zachiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachiel&hide=stars&theme=one_dark_pro&show_icons=true&rank_icon=percentile&count_private=true)](https://github.com/Zachiel/github-readme-stats)
+
 <!-- gifs and images -->
 
-[waving]: https://i.imgur.com/09i14aX.gif
+[waving]: https://github.com/Zachiel/Zachiel/blob/main/greetings-hey.gif
 
 <!-- contact links -->
 
