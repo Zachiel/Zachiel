@@ -1,6 +1,4 @@
-# Hi, I'm Piotr Warowny
-
-![kitty waving][waving]
+# Hi ![kitty waving][waving], I'm Piotr Warowny
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zachiel&color=blue)
 
