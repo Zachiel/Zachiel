@@ -40,7 +40,7 @@
 
 ## 💁‍♂️ Github stats
 
-[![Zachiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zachiel&hide=stars&theme=one_dark_pro&show_icons=true&rank_icon=percentile&count_private=true)](https://github.com/Zachiel/github-readme-stats)
+![Zachiel's GitHub stats](http://github-readme-stats-git-main-zachiels-projects.vercel.app/api?username=Zachiel&hide=stars&theme=one_dark_pro&show_icons=true&rank_icon=percentile&count_private=true&show=reviews,prs_merged,prs_merged_percentage)![Top languages](http://github-readme-stats-git-main-zachiels-projects.vercel.app/api/top-langs?username=Zachiel&hide=html,css,shell&theme=one_dark_pro&langs-count=8&layout=pie)
 
 <!-- gifs and images -->
 
