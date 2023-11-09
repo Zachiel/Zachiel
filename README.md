@@ -1,4 +1,6 @@
-# Hi ![kitty waving][waving], I'm Piotr Warowny
+# Hi, I'm Piotr Warowny
+
+![kitty waving][waving]
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zachiel&color=blue)
 
@@ -42,7 +44,7 @@
 
 <!-- gifs and images -->
 
-[waving]: https://github.com/Zachiel/Zachiel/blob/main/greetings-hey.gif
+[waving]: greetings-hey.gif
 
 <!-- contact links -->
 
