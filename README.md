@@ -17,7 +17,9 @@
 -   🤔 I'm interested in new technologies.
 -   📱 I'm open to new opportunities.
 -   📝 I'm always looking for new challenges.
--   🏢 _**I'm looking for a job!**_
+
+#### - 🏢 _**I'm looking for a job!**_
+
 -   💬 Ask me about anything.
 -   📫 How to reach me: [![business email][protonmail]][protonmailto]
 
@@ -27,8 +29,8 @@
 
 ## 🧰 Languages and tools
 
--   👨‍💻 Languages: ![typescript][langtypescript]![javascript][langjavascript]![c sharp][langcsharp]![nodejs][langnodejs]![deno][deno]![bun][bun]![python][langpython]![css][langcss]![html][langhtml]![markdown][langmarkdown]
--   ⚒️ Frameworks and libraries: ![react][react]![react hook form][reacthookform]![react query][reactquery]![react router][reactrouter]![nextjs][nextjs]![sass][sass]![dotnet][dotnet]![expressjs][express]![flask][flask]![tailwindcss][tailwind]![bootstrap][bootstrap]![jquery][jquery]
+-   👨‍💻 Languages: ![typescript][langtypescript]![javascript][langjavascript]![c sharp][langcsharp]![nodejs][langnodejs]![python][langpython]![css][langcss]![html][langhtml]![markdown][langmarkdown]
+-   ⚒️ Frameworks and libraries: ![react][react]![react hook form][reacthookform]![react query][reactquery]![react router][reactrouter]![sass][sass]![dotnet][dotnet]![expressjs][express]![flask][flask]![tailwindcss][tailwind]![bootstrap][bootstrap]![jquery][jquery]
 -   💽 Databases: ![postgres sql][dbpostgres]![microsoft sql][dbmssql]![mongodb][dbmongo]
 -   🕑 Version control: ![github][github]![git][git]
 -   💻 IDEs and code editors: ![vscode][vscode]![visualstudio][visualstudio]![codepen][codepen]![notepad++][notepad++]![rider][rider]
@@ -48,8 +50,8 @@
 
 <!-- contact links -->
 
-[protonmailto]: mailto:pwarowny@pm.me?subject=from-github
-[gmailmailto]: mailto:ezehiel182@gmail.com?subject=from-github
+[protonmailto]: mailto:pwarowny@pm.me?subject=through-github
+[gmailmailto]: mailto:ezehiel182@gmail.com?subject=through-github
 [linkedinlink]: https://www.linkedin.com/in/piotr-warowny/
 [githublink]: https://github.com/Zachiel
 [whatsapplink]: https://wa.link/wfluri
@@ -99,9 +101,6 @@
 [bootstrap]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [express]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
-[nextjs]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
-[bun]: https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white
-[deno]: https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white
 [sass]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [jquery]: https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
