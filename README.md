@@ -18,7 +18,7 @@
 -   📱 I'm open to new opportunities.
 -   📝 I'm always looking for new challenges.
 
-#### - 🏢 _**I'm looking for a job!**_
+### - 🏢 _**I'm looking for a job!**_
 
 -   💬 Ask me about anything.
 -   📫 How to reach me: [![business email][protonmail]][protonmailto]
