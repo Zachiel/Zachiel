@@ -63,7 +63,7 @@
 [protonmail]: https://img.shields.io/badge/ProtonMail-purple?style=for-the-badge&logo=protonmail&logoColor=white
 [gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[github]: https://img.shields.io/badge/github-303030.svg?style=for-the-badge&logo=github&logoColor=white
 [whatsapp]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [telegram]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [signal]: https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white
@@ -71,67 +71,67 @@
 <!-- tech badges -->
 <!-- languages -->
 
-[langtypescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
-[langcsharp]: https://img.shields.io/badge/c%23-purple.svg?style=for-the-badge&logo=c-sharp&logoColor=white
-[langcss]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[langhtml]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[langjavascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[langmarkdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white
-[langpython]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[langnodejs]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[langtypescript]: https://img.shields.io/badge/typescript-303030.svg?style=for-the-badge&logo=typescript&logoColor=cadetblue
+[langcsharp]: https://img.shields.io/badge/c%23-303030.svg?style=for-the-badge&logo=c-sharp&logoColor=purple
+[langcss]: https://img.shields.io/badge/css3-303030.svg?style=for-the-badge&logo=css3&logoColor=lightblue
+[langhtml]: https://img.shields.io/badge/html5-303030.svg?style=for-the-badge&logo=html5&logoColor=orange
+[langjavascript]: https://img.shields.io/badge/javascript-303030.svg?style=for-the-badge&logo=javascript&logoColor=yellow
+[langmarkdown]: https://img.shields.io/badge/markdown-303030.svg?style=for-the-badge&logo=markdown&logoColor=white
+[langpython]: https://img.shields.io/badge/python-303030?style=for-the-badge&logo=python&logoColor=yellow
+[langnodejs]: https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=green
 
 <!-- databases -->
 
-[dbmssql]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[dbmongo]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[dbpostgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[dbmssql]: https://img.shields.io/badge/microsoft%20sql%20server-303030?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[dbmongo]: https://img.shields.io/badge/MongoDB-303030.svg?style=for-the-badge&logo=mongodb&logoColor=green
+[dbpostgres]: https://img.shields.io/badge/postgres-303030.svg?style=for-the-badge&logo=postgresql&logoColor=cadetblue
 
 <!-- design -->
 
-[designillustrator]: https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
-[designlightroom]: https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white
-[designphotoshop]: https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white
-[designcanva]: https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white
-[designfigma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[designillustrator]: https://img.shields.io/badge/adobe%20illustrator-303030.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=orange
+[designlightroom]: https://img.shields.io/badge/Adobe%20Lightroom%20Classic-303030.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=lightblue
+[designphotoshop]: https://img.shields.io/badge/adobe%20photoshop-303030.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=blue
+[designcanva]: https://img.shields.io/badge/Canva-303030.svg?style=for-the-badge&logo=Canva&logoColor=lightblue
+[designfigma]: https://img.shields.io/badge/figma-303030.svg?style=for-the-badge&logo=figma&logoColor=orange
 
 <!-- frameworks -->
 
-[react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
-[dotnet]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
-[bootstrap]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
-[express]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
-[flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
-[sass]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
-[tailwind]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-[jquery]: https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
-[reactquery]: https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white
-[reactrouter]: https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white
-[reacthookform]: https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white
+[react]: https://img.shields.io/badge/react-303030.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[dotnet]: https://img.shields.io/badge/.NET-303030?style=for-the-badge&logo=.net&logoColor=purple
+[bootstrap]: https://img.shields.io/badge/bootstrap-303030.svg?style=for-the-badge&logo=bootstrap&logoColor=purple
+[express]: https://img.shields.io/badge/express.js-303030.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[flask]: https://img.shields.io/badge/flask-303030.svg?style=for-the-badge&logo=flask&logoColor=white
+[sass]: https://img.shields.io/badge/SASS-303030.svg?style=for-the-badge&logo=SASS&logoColor=deeppink
+[tailwind]: https://img.shields.io/badge/tailwindcss-303030.svg?style=for-the-badge&logo=tailwind-css&logoColor=cyan
+[jquery]: https://img.shields.io/badge/jquery-303030.svg?style=for-the-badge&logo=jquery&logoColor=blue
+[reactquery]: https://img.shields.io/badge/-React%20Query-303030?style=for-the-badge&logo=react%20query&logoColor=darkorange
+[reactrouter]: https://img.shields.io/badge/React_Router-303030?style=for-the-badge&logo=react-router&logoColor=orange
+[reacthookform]: https://img.shields.io/badge/React%20Hook%20Form-303030.svg?style=for-the-badge&logo=reacthookform&logoColor=deeppink
 
 <!-- ide -->
 
-[codepen]: https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black
-[notepad++]: https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black
-[rider]: https://img.shields.io/badge/Rider-crimson.svg?style=for-the-badge&logo=Rider&logoColor=white
-[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[visualstudio]: https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white
+[codepen]: https://img.shields.io/badge/CodePen-303030?style=for-the-badge&logo=codepen&logoColor=white
+[notepad++]: https://img.shields.io/badge/Notepad++-303030.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=lime
+[rider]: https://img.shields.io/badge/Rider-303030.svg?style=for-the-badge&logo=Rider&logoColor=orange
+[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-303030.svg?style=for-the-badge&logo=visual-studio-code&logoColor=dodgerblue
+[visualstudio]: https://img.shields.io/badge/Visual%20Studio-303030.svg?style=for-the-badge&logo=visual-studio&logoColor=purple
 
 <!-- other -->
 
-[jira]: https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white
-[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[eslint]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
-[notion]: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
-[postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[trello]: https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white
-[swagger]: https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
-[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[excel]: https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-[word]: https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white
-[powerpoint]: https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white
-[visio]: https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white
-[ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-[windows]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[android]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
-[macos]: https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0
-[raspberrypi]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
+[jira]: https://img.shields.io/badge/jira-303030.svg?style=for-the-badge&logo=jira&logoColor=blue
+[docker]: https://img.shields.io/badge/docker-303030.svg?style=for-the-badge&logo=docker&logoColor=blue
+[eslint]: https://img.shields.io/badge/ESLint-303030?style=for-the-badge&logo=eslint&logoColor=purple
+[notion]: https://img.shields.io/badge/Notion-303030.svg?style=for-the-badge&logo=notion&logoColor=white
+[postman]: https://img.shields.io/badge/Postman-303030?style=for-the-badge&logo=postman&logoColor=orange
+[trello]: https://img.shields.io/badge/Trello-303030.svg?style=for-the-badge&logo=Trello&logoColor=dodgerblue
+[swagger]: https://img.shields.io/badge/-Swagger-303030?style=for-the-badge&logo=swagger&logoColor=green
+[git]: https://img.shields.io/badge/git-303030.svg?style=for-the-badge&logo=git&logoColor=orange
+[excel]: https://img.shields.io/badge/Microsoft_Excel-303030?style=for-the-badge&logo=microsoft-excel&logoColor=green
+[word]: https://img.shields.io/badge/Microsoft_Word-303030?style=for-the-badge&logo=microsoft-word&logoColor=blue
+[powerpoint]: https://img.shields.io/badge/Microsoft_PowerPoint-303030?style=for-the-badge&logo=microsoft-powerpoint&logoColor=orange
+[visio]: https://img.shields.io/badge/Microsoft_Visio-303030?style=for-the-badge&logo=microsoft-visio&logoColor=blue
+[ubuntu]: https://img.shields.io/badge/Ubuntu-303030?style=for-the-badge&logo=ubuntu&logoColor=orange
+[windows]: https://img.shields.io/badge/Windows-303030?style=for-the-badge&logo=windows&logoColor=blue
+[android]: https://img.shields.io/badge/Android-303030?style=for-the-badge&logo=android&logoColor=green
+[macos]: https://img.shields.io/badge/mac%20os-303030?style=for-the-badge&logo=macos&logoColor=white
+[raspberrypi]: https://img.shields.io/badge/-RaspberryPi-303030?style=for-the-badge&logo=Raspberry-Pi&logoColor=mediumvioletred
